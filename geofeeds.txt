@@ -1,5 +1,5 @@
 # Geofeed autopublicado como se define en datatracker.ietf.org/doc/html/rfc8805
-# IPcom Sistemas SAS CO Geofeed, ASN 271927 última actualización (rfc3339): 2022-09-14T01:11:28-08:00
+# IPcom Sistemas SAS CO Geofeed, ASN 271927 última actualización (rfc3339): 2023-06-15 T15:11:28-08:00
 # prefijo,código_país,código_región,ciudad,postal
 
 45.176.188.0/24,CO,CO-SAN,Contratación,683071
