@@ -3,4 +3,10 @@
 # prefijo,código_país,código_región,ciudad,postal
 
 45.176.188.0/24,CO,CO-SAN,Contratación,683071
-2803:ea10::/32,CO,CO-SAN,Contratación,683071
+2803:ea10:1::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:2::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:3::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:4::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:5::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:8::/48,CO,CO-SAN,El Guacamayo,683061
+2803:ea10:b::/48,CO,CO-SAN,Contratacion,683071
