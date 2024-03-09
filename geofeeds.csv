@@ -1,5 +1,5 @@
 # Geofeed https://_link_to_your/geofeed_file.csv
-# prefijo,codigo_pais,codigo_region,ciudad,postal
+prefijo,codigo_pais,codigo_region,ciudad,postal
 38.190.98.0/24,CO,CO-DC,Bogotá D.C.,111411
 45.176.188.0/24,CO,CO-SAN,Contratacion,683071
 191.102.68.128/28,CO,CO-SAN,Contratacion,683071
