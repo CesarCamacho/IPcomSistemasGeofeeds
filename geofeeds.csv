@@ -11,4 +11,3 @@ prefijo,codigo_pais,codigo_region,ciudad,postal
 2803:ea10:b::/48,CO,CO-SAN,Contratacion,683071
 2803:ea10:c8::/48,CO,CO-SAN,Contratacion,683071
 2803:ea10:1aa::/48,CO,CO-SAN,El Guacamayo,683061
-#Geofeed https://_link_to_your/geofeed_file.csv
