@@ -3,7 +3,6 @@
 # IPcom Sistemas SAS CO Geofeed, ASN 271927 última actualización (rfc3339): 2024-03-27 T03:02:28-05:00
 
 38.190.98.0/24,CO,CO-DC,Bogota D.C.,
-191.102.68.128/28,CO,CO-SAN,Contratacion,
 2803:ea10:1::/48,CO,CO-SAN,Contratacion,
 2803:ea10:2::/48,CO,CO-SAN,Contratacion,
 2803:ea10:3::/48,CO,CO-SAN,Contratacion,
