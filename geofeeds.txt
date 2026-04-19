@@ -2,20 +2,20 @@
 # Geofeed autopublicado como se define en datatracker.ietf.org/doc/html/rfc8805
 # IPcom Sistemas SAS CO Geofeed, ASN 271927 última actualización (rfc8805): 2026-04-18 T03:02:28-05:00
 
-181.224.222.0/28,CO,Santander,Contratacion
-181.224.222.16/28,CO,Santander,Contratacion
-181.224.222.32/29,CO,Santander,Contratacion
-181.224.222.40/29,CO,Santander,Contratacion
-181.224.222.48/29,CO,Santander,Contratacion
-181.224.222.80/28,CO,Santander,Contratacion
-2803:ea10:1::/48,CO,Santander,Contratacion
-2803:ea10:2::/48,CO,Santander,Contratacion
-2803:ea10:3::/48,CO,Santander,Contratacion
-2803:ea10:4::/48,CO,Santander,Contratacion
-2803:ea10:5::/48,CO,Santander,Contratacion
-2803:ea10:8::/48,CO,Santander,El Guacamayo
-2803:ea10:b::/48,CO,Santander,Contratacion
-2803:ea10:c8::/48,CO,Santander,Contratacion
-2803:ea10:dead::/48,CO,Santander,Contratacion
-2803:ea10:1aa::/48,CO,Santander,El Guacamayo
-2803:ea10:abab::/48,CO,Santander,El Guacamayo
+181.224.222.0/28,CO,CO-SAN,Contratacion,683071
+181.224.222.16/28,CO,CO-SAN,Contratacion,683071
+181.224.222.32/29,CO,CO-SAN,Contratacion,683071
+181.224.222.40/29,CO,CO-SAN,Contratacion,683071
+181.224.222.48/29,CO,CO-SAN,Contratacion,683071
+181.224.222.80/28,CO,CO-SAN,Contratacion,683071
+2803:ea10:1::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:2::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:3::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:4::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:5::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:8::/48,CO,CO-SAN,El Guacamayo,683061
+2803:ea10:b::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:c8::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:dead::/48,CO,CO-SAN,Contratacion,683071
+2803:ea10:1aa::/48,CO,CO-SAN,El Guacamayo,683061
+2803:ea10:abab::/48,CO,CO-SAN,El Guacamayo,683061
