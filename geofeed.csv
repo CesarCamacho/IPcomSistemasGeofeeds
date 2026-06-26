@@ -5,7 +5,7 @@ ip_prefix,country_code,region_code,city_name,postal_code
 181.224.222.40/29,CO,CO-SAN,Contratacion,683071
 181.224.222.48/29,CO,CO-SAN,Contratacion,683071
 181.224.222.64/27,CO,CO-SAN,Contratacion,683071
-181.224.222.56,CO,CO-SAN,,Santa Helena del Opon,685501
+181.224.222.56,CO,CO-SAN,Santa Helena del Opon,685501
 2803:ea10:1::/48,CO,CO-SAN,Contratacion,683071
 2803:ea10:2::/48,CO,CO-SAN,Contratacion,683071
 2803:ea10:3::/48,CO,CO-SAN,Contratacion,683071
