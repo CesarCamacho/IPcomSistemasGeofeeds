@@ -1,6 +1,6 @@
 # Geofeed http://ipcomsistemas.co/geofeed.csv
 # Geofeed autopublicado como se define en datatracker.ietf.org/doc/html/rfc8805
-# IPcom Sistemas SAS CO Geofeed, ASN 271927 última actualización (rfc8805): 2026-04-19 T05:30:28-05:00
+# IPcom Sistemas SAS CO Geofeed, ASN 271927 última actualización (rfc8805): 2026-06-26 T05:30:28-05:00
 
 181.224.222.0/28,CO,CO-SAN,Contratacion,683071
 181.224.222.16/28,CO,CO-SAN,Contratacion,683071
